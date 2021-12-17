@@ -1,0 +1,22 @@
+{
+  "name": "silentseldon-steam-image",
+  "version": "1.0.0",
+  "description": "SilentSeldon的Steam-image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentSeldon/Steam-image.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "silentseldon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilentSeldon/Steam-image/issues"
+  },
+  "homepage": "https://github.com/SilentSeldon/Steam-image#readme"
+}
